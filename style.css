@@ -1,0 +1,22 @@
+body {
+  background-image: url("Imagens/Hydro.jpg");
+  background-size: cover;
+}
+
+.header {
+  text-align: center
+}
+
+.c1 {
+  font-family: "Lucida Console", monospace;
+  color: #fff
+}
+
+.c2 {
+  font-size: 20px;
+  margin-left: 290px; 
+}
+
+.foto {
+  border-radius: 50%;
+}
